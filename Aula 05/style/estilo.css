@@ -1,0 +1,19 @@
+a:link {
+    color: crimson;
+}
+
+a:visited {
+    color: darkmagenta;
+}
+
+a:hover {
+    color: blueviolet;
+}
+
+a:active {
+    color: firebrick;
+}
+
+body {
+    background-image: url("/Aula 05/img/porra.jpg");
+}
